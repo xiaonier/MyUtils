@@ -1,0 +1,22 @@
+{
+  "name": "MyUtils",
+  "version": "0.1.0",
+  "summary": "A short description of MyUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cuijunchang001/MyUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cuijunchang001": "cuijunchang001@ke.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaonier/MyUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyUtils/Classes/**/*"
+}

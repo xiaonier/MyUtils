@@ -1,0 +1,6 @@
+framework module MyUtils {
+  umbrella header "MyUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

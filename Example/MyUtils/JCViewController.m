@@ -7,6 +7,7 @@
 //
 
 #import "JCViewController.h"
+#import "JcUtil.h"
 
 @interface JCViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    // 打印当前时间戳
+    [JcUtil printCurrentTimestamp];
 }
 
 - (void)didReceiveMemoryWarning

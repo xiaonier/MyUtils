@@ -1,0 +1,16 @@
+PODS:
+  - MyUtils (0.1.0)
+
+DEPENDENCIES:
+  - MyUtils (from `../`)
+
+EXTERNAL SOURCES:
+  MyUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyUtils: cc35a9897ea24627766f9e370a6c97ab24c399c8
+
+PODFILE CHECKSUM: 25bc8192268b856922cf2bb6e7e35e9a4f7ed18b
+
+COCOAPODS: 1.16.2
